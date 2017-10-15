@@ -8,46 +8,6 @@ html{
   background-size: cover;
 }
 
-a:link {
-    text-decoration: none;
-    color: white;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-a:visited {
-    color: white;
-}
-
-input {
-  -moz-border-radius: 5px;
-  border-radius: 5px;
-  border:solid 1px black;
-  padding:2px;
-}
-
-textarea {
-  -moz-border-radius: 5px;
-  border-radius: 5px;
-  border:solid 1px black;
-  padding:2px;
-}
-
-.button {
-  background-color: orange;
-  border: none;
-  color: white;
-  padding: 7px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-
 
 .contentalign{
   margin-left: 200px;
@@ -73,9 +33,6 @@ textarea {
   padding: 0px 15px;
 }
 
-.horizontal-space-sub-menus{
-  padding: 0px 5px;
-}
 
 .masthead {
   padding: 2em;
@@ -84,12 +41,6 @@ textarea {
   color: #fff
 }
 
-.sub-masthead {
-  padding: 1em;
-  background: orange;
-  background-size: cover;
-  color: #fff
-}
 
 .current {
   font-weight: bolder;
