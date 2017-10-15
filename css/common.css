@@ -4,7 +4,6 @@ html{
 
   font: normal 100%/1.4 courier;
   background-image: white;
-  background-attachment: fixed;
   background-size: cover;
 }
 
@@ -38,7 +37,7 @@ html{
   padding: 2em;
   background: black;
   background-size: cover;
-  color: #fff
+  color: black;
 }
 
 
